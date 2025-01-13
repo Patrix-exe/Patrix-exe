@@ -3,8 +3,8 @@ Hi 👋, I'm Patrick
 
 ### (Almost) Computer Engineer
 
-- 🌱 I’m currently learning Python and Embedded Systems
-- 💬 Ask me about Electronics and Embedded Systems
+- 🌱 I’m currently learning Python and Networks
+- 💬 Ask me about anything
 - 📫 How to reach me:  eng.dev.patrick@gmail.com
 - 😆 Fun fact I joke about everything
 
